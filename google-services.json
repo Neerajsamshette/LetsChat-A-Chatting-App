@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494811061861",
+    "project_id": "letschat-acbbb",
+    "storage_bucket": "letschat-acbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494811061861:android:bd084549b631f85946f08c",
+        "android_client_info": {
+          "package_name": "com.LetsChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494811061861-1d0ka821tef7tmtu5mbif65ob5j6jjvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWKR6WFa8Fkgbq4LhmjK65UdR3HxXsRaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494811061861-1d0ka821tef7tmtu5mbif65ob5j6jjvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
